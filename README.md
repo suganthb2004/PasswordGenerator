@@ -1,6 +1,6 @@
 # PasswordGenerator
 
-#Description:
+# *Description:*
 SecurePass is a web application designed to generate secure passwords for users. It provides a simple interface where users can specify their password requirements and generate strong, random passwords accordingly. This project aims to promote good password hygiene and help users create robust passwords for their accounts.
 
 **Features:**
@@ -37,7 +37,7 @@ Contributions to this project are welcome! If you have any ideas for improvement
 This project is licensed under the [License Name] license. See the LICENSE file for more details.
 
 **Author:**
-#Suganth B
+*Suganth B*
 
 **Contact:**
 For any inquiries or support, please contact suganthkutty007@gmail.com.
